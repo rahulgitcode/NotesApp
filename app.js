@@ -18,5 +18,5 @@ if(command === 'read'){
 }else if(command === 'list'){
     console.log('listing the notes...');
 }else{
-    console.log('Command not found!');
+    console.log('Command could not be found!');
 }
